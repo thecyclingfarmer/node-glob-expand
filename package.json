@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "glob": "~4.5.x",
-    "lodash": "~4.13.x"
+    "lodash": "~4.17.x"
   },
   "devDependencies": {
     "grunt": "0.4.5",
