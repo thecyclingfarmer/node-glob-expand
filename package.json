@@ -40,7 +40,7 @@
     "node": ">0.10"
   },
   "dependencies": {
-    "glob": "~4.5.x",
+    "glob": "~7.1.x",
     "lodash": "~4.17.x"
   },
   "devDependencies": {
